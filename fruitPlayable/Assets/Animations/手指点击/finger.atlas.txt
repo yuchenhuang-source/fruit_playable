@@ -1,0 +1,9 @@
+手指点击聚焦_2.png
+size:387,219
+filter:Linear,Linear
+pma:true
+Finger
+bounds:2,2,215,251
+rotate:90
+yuan
+bounds:255,87,130,130
