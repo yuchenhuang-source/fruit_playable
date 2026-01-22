@@ -67,6 +67,12 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.playworks.upp": {
+      "version": "file:../../../7.0.0/scripts",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.settings-manager": {
       "version": "2.1.0",
       "depth": 2,
